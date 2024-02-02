@@ -6,7 +6,7 @@ Bakeway is a static website designed for showcasing delightful bakery products. 
 
 ## Getting Started
 
-To experience Bakeway, simply follow this [Live Link]() and explore the delicious offerings.
+To experience Bakeway, simply follow this [Live Link](https://bakeway-padma.netlify.app/) and explore the delicious offerings.
 
 or to get started with Bakeway, follow these steps:
 
