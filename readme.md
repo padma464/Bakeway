@@ -13,7 +13,7 @@ or to get started with Bakeway, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bakeway.git
+   git clone https://github.com/padma464/Bakeway.git
    ```
 
 2. Navigate to the project directory:
